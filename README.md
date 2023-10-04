@@ -1,7 +1,5 @@
-### Oiii! Eu sou o Alek 👋
-<p align="center">
-    <img src="img/<img src="![image](https://github.com/Alexsander-oml/Alexsander-oml/assets/61764134/bfce4d3d-10d1-475a-b4b8-a91552a7d9f4)"/>" width="520" alt="bem-vindo(a)">  
-</p>
+### Coe! Eu sou o Alek 👋
+
 
 
 <a href="https://github.com/Alexsander-oml">
