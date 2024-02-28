@@ -1,4 +1,4 @@
-### Coe! Eu sou o Alek 👋
+### Olá! Eu sou o Alek 👋
 
 
 
