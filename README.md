@@ -1,5 +1,7 @@
 ### Olá! Eu sou o Alek 👋
 
+- Meu nome é Alexsander, sou um desenvolvedor com paixão por front-end, minha ambição para absorver novas informações é constante, e estou sempre aberto a desafios que me permitam expandir ainda mais minha bagagem técnica. Atualmente, estou consolidando minha formação como técnico em Informática para Internet no IFRS e cursando meu bacharelado em Sistemas de Informação na FURG.
+______________________________________________________________________________________
 
 
 <a href="https://github.com/Alexsander-oml">
@@ -10,7 +12,7 @@
 
 ### Linguagens & ferramentas
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,postgres,cpp,vscode" width="400" alt="html-css-javascript-php-postgres-cpp-vscode">
+<img src="https://skillicons.dev/icons?i=html,css,js,php,postgres,cpp,vscode,python,java" width="400" alt="html-css-javascript-php-postgres-cpp-vscode">
 
 
 </div>
