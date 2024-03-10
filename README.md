@@ -12,7 +12,7 @@ ________________________________________________________________________________
 
 ### Linguagens & ferramentas
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,postgres,cpp,vscode,python,java" width="400" alt="html-css-javascript-php-postgres-cpp-vscode">
+<img src="https://skillicons.dev/icons?i=html,css,js,php,postgres,cpp,vscode,python,java,codeigniter" width="400" alt="html-css-javascript-php-postgres-cpp-vscode">
 
 
 </div>
