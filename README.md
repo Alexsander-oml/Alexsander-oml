@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Alek 👋
 
-- Meu nome é Alexsander, sou um desenvolvedor com paixão por front-end, minha ambição para absorver novas informações é constante, e estou sempre aberto a desafios que me permitam expandir ainda mais minha bagagem técnica. Atualmente, estou consolidando minha formação como técnico em Informática para Internet no IFRS e cursando meu bacharelado em Sistemas de Informação na FURG.
+- Meu nome é Alexsander, sou um desenvolvedor com paixão por front-end, frenético em absorver experiência, e estou sempre aberto a desafios que me permitam expandir ainda mais minha bagagem técnica. Atualmente, estou consolidando minha formação como técnico em Informática para Internet no IFRS e cursando meu bacharelado em Sistemas de Informação na FURG.
 ______________________________________________________________________________________
 
 
